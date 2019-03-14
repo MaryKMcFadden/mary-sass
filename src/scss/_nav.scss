@@ -5,27 +5,27 @@
   padding-top: 55px;
   padding-right: 30px;
   text-align: center;
-}
 
-  h4 {
-    -webkit-margin-before: 0;
-    margin-left: 50px;
+
+    h4 {
+      -webkit-margin-before: 0;
+      margin-left: 50px;
   }
 
-  a:link { 
-      color: $secondary-color;
-      background-color: $primary-color;
+    a:link { 
+      color: $primary-color;
+      background-color: $secondary-color;
       text-decoration: none;
     }
     
-  a:hover { 
-      color: $secondary-color;
-      background-color: $primary-color;
-      text-decoration: underline;
+    a:hover { 
+       text-decoration: underline;
     }
 
-  a:visited { 
-      color: $secondary-color;
-      background-color: $primary-color;
+    a:visited { 
+      color: $primary-color;
+      background-color: $secondary-color;
       text-decoration: none;
     }
+
+  }

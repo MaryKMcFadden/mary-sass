@@ -5,7 +5,7 @@ color: $secondary-color;
 }
 
 p, a {
-font-size: 0.75rem;
+font-size: 1rem;
 }
 
 img {
@@ -15,7 +15,8 @@ width: 550px;
 }
 
 ul {
-list-style: none;
+list-style: square;
+list-style-position: inside;
 }
 
 .container {
